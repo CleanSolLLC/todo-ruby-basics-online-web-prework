@@ -1,17 +1,17 @@
 def division(num1, num2)
- 
-end
+  answer = num1/num2
+ end
 
 def assign_variable(value)
-  
+  name = value
 end
 
 def argue
-  
+  argue
 end
 
-def greeting
-
+def greeting (name, language)
+name, language
 end
 
 def return_a_value
