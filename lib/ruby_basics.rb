@@ -13,14 +13,14 @@ end
 def greeting (name, language)
 end
 
-def return_a_value
-
+def return_a_value(opinion = "Nice")
+ opinion
 end
 
-def last_evaluated_value
-
+def last_evaluated_value (level = "expert")
+  level
 end
 
-def pizza_party
-
+def pizza_party(type = "cheese")
+  type
 end
